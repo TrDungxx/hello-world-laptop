@@ -1,0 +1,33 @@
+
+[
+    {
+        "title": "My Clip 1",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "start": "⭐⭐⭐",
+        "source_clip": "https://www.youtube.com/watch?v=7xDyphWgN6M"
+    },
+    {
+        "title": "My Clip 2",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "start": "⭐⭐⭐",
+        "source_clip": "https://www.youtube.com/watch?v=7xDyphWgN6M"
+    },
+    {
+        "title": "My Clip 3",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "start": "⭐⭐⭐",
+        "source_clip": "https://www.youtube.com/watch?v=7xDyphWgN6M"
+    },
+    {
+        "title": "My Clip 4",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "start": "⭐⭐⭐",
+        "source_clip": "https://www.youtube.com/watch?v=7xDyphWgN6M"
+    },
+    {
+        "title": "Clip Lớn",
+        "description": " clip lớn .",
+        "start": "star/5start.png",
+        "source_clip": ""
+    }
+]

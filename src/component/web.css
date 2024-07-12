@@ -1,0 +1,72 @@
+/* src/Header.css */
+.header {
+    background-color: #007BFF;
+    color: white;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    padding: 0px;
+    text-align: center;
+    border: 2px solid #0056b3; 
+    text-align: left;
+    font-size: 20px;
+    
+   
+}
+.header-item {
+    display: inline; 
+    margin: 0 10px; 
+}
+
+/* src/App.css */
+/* src/App.css */
+.clip-list {
+    display: flex;
+    flex-wrap: wrap; /* Cho phép xuống dòng */
+    justify-content: center; /* Canh giữa */
+}
+
+.clip-item {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+    text-align: center;
+}
+
+/* Để chia thành 2 cột */
+@media (min-width: 600px) {
+    .clip-list {
+        justify-content: space-between; /* Căn giữa */
+    }
+    
+    .clip-item {
+        width: 45%; /* Mỗi item chiếm 45% chiều rộng */
+    }
+}
+.large-clip {
+    text-align: center;
+    margin-bottom: 20px; /* Khoảng cách dưới clip lớn */
+}
+.h2item{
+    text-align: center;
+}
+.footer{
+    background-color: #007BFF;
+    color: white;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    padding: 0px;
+    text-align: center;
+    border: 2px solid #0056b3; 
+    text-align: left;
+    font-size: 20px;
+    
+
+}
+.pitem{
+    text-align: right;
+}
+
+
+
